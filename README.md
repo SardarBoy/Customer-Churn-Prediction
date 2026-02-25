@@ -4,26 +4,29 @@ This project predicts whether a telecom customer is likely to churn using a Mach
 
 ---
 
-## Features
-- Predicts customer churn probability
-- Streamlit web application
-- Trained ML model
-- Encoders for categorical variables
+## Project Highlights
+- Data cleaning & preprocessing
+- Exploratory Data Analysis (EDA)
+- Handling class imbalance with SMOTE
+- Model training & comparison (Decision Tree, Random Forest, XGBoost)
+- Model evaluation (confusion matrix & metrics)
+- Model persistence (joblib / pickle)
+- Streamlit deployment for real-time predictions
+- Business insights from feature importance
 
 ---
 
-## Model Details
-- Algorithm: XGBoost / (your model)
-- Dataset: Telco Customer Churn
-- Task: Binary Classification
+## Outcome
+Built a churn prediction system achieving **~82% accuracy** using Random Forest.
 
 ---
 
 ## Tech Stack
 - Python
-- Pandas
+- Pandas & NumPy
 - Scikit-learn
 - XGBoost
+- SMOTE (Imbalanced-learn)
 - Streamlit
 
 ---
