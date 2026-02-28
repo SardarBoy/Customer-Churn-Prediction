@@ -2,6 +2,8 @@
 
 This project predicts whether a telecom customer is likely to churn using a Machine Learning model.
 
+# Live Demo
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sardarboy-customer-churn-prediction.streamlit.app)
 ---
 
 ## Project Highlights
