@@ -5,6 +5,11 @@ This project predicts whether a telecom customer is likely to churn using a Mach
 # Live Demo
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sardarboy-customer-churn-prediction.streamlit.app)
 ---
+## Screenshots
+
+![App](screenshots/app.png)
+![Prediction](screenshots/predict.png)
+---
 
 ## Project Highlights
 - Data cleaning & preprocessing
